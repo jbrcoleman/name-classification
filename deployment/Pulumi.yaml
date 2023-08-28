@@ -1,0 +1,3 @@
+name: name
+runtime: nodejs
+description: classification model deployed to eks cluster
