@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: streamlit-app
-        image: jbrcoleman/streamlitapp
+        image: bravinwasike/streamlitapp
         resources:
           limits:
             memory: "512Mi"
