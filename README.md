@@ -1,2 +1,2 @@
 # name-classification
-Create a classification model that can classify gender of person by name. This model will be deployed in a streamlit application and onto a EKS cluster using Pulumi. By using the address outputted after running **terraform apply** you will be able to interact with the streamlit web application. 
+Create a classification model that can classify gender of person by name. This model will be deployed in a streamlit application and onto a EKS cluster using Pulumi. Pulumi was used in this repo to explore using the IaC tool as a way of deploying machine learning applications onto a Kubernetes cluster. By using the address outputted after running **pulumi up** you will be able to interact with the streamlit web application. 
